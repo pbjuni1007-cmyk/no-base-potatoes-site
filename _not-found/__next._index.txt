@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","974","static/chunks/app/page-873d80cf977d2032.js"],""]
+3:I[7121,[],""]
+4:I[4581,[],""]
+:HL["/no-base-potatoes-site/_next/static/css/6338a362d339d5c9.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/no-base-potatoes-site/_next/static/css/6338a362d339d5c9.css","precedence":"next"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"children":[["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"site-shell header-inner","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"No Base Potatoes 홈","children":["$","span",null,{"children":"NO BASE POTATOES"}]}],["$","nav",null,{"className":"site-nav","aria-label":"주요 메뉴","children":[["$","$L2",null,{"href":"/","children":"소개"}],["$","$L2",null,{"href":"/materials","children":"학습 자료"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"site-shell footer-inner","children":[["$","span",null,{"children":"NO BASE POTATOES"}],["$","span",null,{"children":"SKALA 4기"}]]}]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5ATjMAafW02PEn3teGzUS"}
