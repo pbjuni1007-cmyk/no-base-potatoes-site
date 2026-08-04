@@ -1,0 +1,2 @@
+:HL["/no-base-potatoes-site/_next/static/css/6b3ec95fa72fe328.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"basics","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"object-order-sheet","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"BR-NrNBtwULyILfTCRKpR"}
