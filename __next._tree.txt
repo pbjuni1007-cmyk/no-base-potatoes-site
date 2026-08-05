@@ -1,2 +1,2 @@
-:HL["/no-base-potatoes-site/_next/static/css/ddc7d00d9e1d4390.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"wZNFD-3UoUSUsm1U3JOVm"}
+:HL["/no-base-potatoes-site/_next/static/css/fed400ef4c773d74.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"g6MjVUEGOB6Nidu4Z41di"}
