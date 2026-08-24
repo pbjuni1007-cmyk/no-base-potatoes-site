@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","502","static/chunks/app/practice/page-50fd761c52c1d723.js"],""]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"site-shell practice-page","children":[["$","header",null,{"className":"practice-hero","children":[["$","p",null,{"children":"TYPE IT. READ THE STATE."}],["$","h1",null,{"children":"직접 해보기"}],["$","p",null,{"children":"명령을 외우는 대신 실행 전후의 경로, 파일과 Git 상태를 직접 확인합니다."}]]}],["$","section",null,{"className":"practice-empty","aria-labelledby":"practice-empty-title","children":[["$","p",null,{"aria-hidden":"true","children":"준비 중..."}],["$","h2",null,{"id":"practice-empty-title","children":"첫 도구 실습을 검토 중입니다."}],["$","p",null,{"children":"공개가 승인된 실습만 이곳에 나타납니다."}],["$","$L2",null,{"className":"button","href":"/materials","children":"학습 자료 보기"}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6b0BHWBYy6-5bgXNOTFpy"}
+5:null
